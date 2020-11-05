@@ -4,6 +4,10 @@ Uses a selenium browser window to detect the title from currently watching YouTu
 ![alt text](https://raw.githubusercontent.com/Connortif1463/OBS-YouTube-Title-Scraper/master/sample%20images/screenshot_3.png)
 
 ## Installation:
+Before installing,
+- of course, clone and unzip the code into whatever folder you want.
+
+Then...
 - First, go here and download your os's chromedriver:
 https://chromedriver.storage.googleapis.com/index.html?path=86.0.4240.22/
 then, take that chromedriver executable and move it into the project's unzipped folder.
