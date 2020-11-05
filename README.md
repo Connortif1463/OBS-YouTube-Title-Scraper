@@ -1,6 +1,8 @@
 # OBS-YouTube-Title-Scraper
 Uses a selenium browser window to detect the title from currently watching YouTube video and writes its title and link to corresponding text files. (Includes dependencies in lib folder.)
 
+![alt text](https://raw.githubusercontent.com/Connortif1463/OBS-YouTube-Title-Scraper/master/sample%20images/screenshot_3.png)
+
 ## Installation:
 - First, go here and download your os's chromedriver:
 https://chromedriver.storage.googleapis.com/index.html?path=86.0.4240.22/
