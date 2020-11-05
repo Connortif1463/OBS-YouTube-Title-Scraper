@@ -19,8 +19,8 @@ https://www.python.org/downloads/
   
    - After creating your project, make sure the YouTube Data API is one of the services that your application is  registered to use.
 
-   - Go to the API Console and select the project that you just registered.
-   - Visit the Enabled APIs page. In the list of APIs, make sure the status is ON for the YouTube Data API v3.
+     - Go to the API Console and select the project that you just registered.
+     - Visit the Enabled APIs page. In the list of APIs, make sure the status is ON for the YouTube Data API v3.
 
 - Fourth, when you have your own api key, go to your clone folder and open key.py in notepad.
   Paste your copied API key in the quotes:
